@@ -8,14 +8,12 @@
     <link rel="stylesheet" href="css/bootstrap.css">
     <link href="css/bootstrap-grid.css" rel="stylesheet" id="bootstrap-css">
     <link href="css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-    <link href="css/bootstrap-grid.css" rel="stylesheet" id="bootstrap-css">
     <link href="css/bootstrap-reboot.css" rel="stylesheet" id="bootstrap-css">
     <link href="css/bootstrap-reboot.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/swiper.min.css">
     <link rel="stylesheet" href="css/speed.css">
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery-3.3.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery-1.11.1.js"></script>
     <style type="text/css">
       body{
