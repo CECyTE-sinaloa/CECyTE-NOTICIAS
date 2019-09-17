@@ -1,16 +1,12 @@
 body { 	
 	background: #444; 	
-	margin: 0; 	
 	font-family: monospace; 
 } 
 .galeria { 	
 	list-style: none;
-    margin: auto;
 } 
 .galeria li { 	
     margin: 15px;
-} 
-.galeria img { 	 
 } 
 .modal { 	
     display: none; 
