@@ -19,8 +19,7 @@
       body{
         background: rgba(0, 0, 100, 0.3);
       }
-      #jumbo{
-        font-family: 
+      #jumbo{ 
         background: #fff;
         color: black;
         font-size: 25px;
