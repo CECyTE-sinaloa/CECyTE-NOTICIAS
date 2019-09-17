@@ -3,14 +3,6 @@ body {
 	margin: 0; 	
 	font-family: monospace; 
 } 
-h5{
-    margin: auto;
-    text-align: center;
-}
-h6{
-	margin: auto;
-	text-align: center;
-}
 .galeria { 	
 	list-style: none;
     margin: auto;
@@ -18,10 +10,8 @@ h6{
 .galeria li { 	
     margin: 15px;
 } 
-.galeria img { 	
-    width: 300px; 	
-    height: 250px; 
-} /*Estilos del modal*/ 
+.galeria img { 	 
+} 
 .modal { 	
     display: none; 
 } 
