@@ -4,14 +4,12 @@
 <meta charset="utf-8">
  <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>CECyTE_Noticias</title>
-    <link rel="shortcut icon" href="CE.png">
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link href="css/bootstrap-grid.css" rel="stylesheet" id="bootstrap-css">
-    <link href="css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-    <link href="css/bootstrap-reboot.css" rel="stylesheet" id="bootstrap-css">
-    <link href="css/bootstrap-reboot.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/swiper.min.css">
-    <link rel="stylesheet" href="css/speed.css">
+    <link rel="shortcut icon" href="CE.png"/>
+    <link rel="stylesheet" href="css/bootstrap.css"/>
+    <link href="css/bootstrap-grid.css" rel="stylesheet" id="bootstrap-css"/>
+    <link href="css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css"/>
+    <link href="css/bootstrap-reboot.css" rel="stylesheet" id="bootstrap-css"/>
+    <link href="css/bootstrap-reboot.min.css" rel="stylesheet"/>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery-3.3.1.min.js"></script>
     <script src="js/jquery-1.11.1.js"></script>
@@ -31,10 +29,6 @@
       }
       .card{
         border-radius: 5px;
-      }
-      .swiper-container{
-        background: transparent;
-        height: 400px;
       }
       video{
         background: black;
@@ -321,59 +315,6 @@
                     <img src="ggg.png" class="img-fuid" style="width: 100%;" alt="Responsive image">
               </div>
               <div class="footer">
-               <h1>HOLA AMIGO BRAYAN</h1>
               </div>
-          
-          <script>
-          var search = document.getElementById("search"), food = document.getElementsByTagName("span"), forEach = Array.prototype.forEach; search.addEventListener("keyup", function(e){ var choice = this.value; forEach.call(food, function(f){ if (f.innerHTML.toLowerCase().search(choice.toLowerCase()) == -1) f.parentNode.style.display = "none"; else f.parentNode.style.display = "block"; }); }, false);
-          </script>
-            <script src="js/swiper.min.js"></script>
-  <script>
-    var swiper = new Swiper('.swiper-container', {
-      effect: 'coverflow',
-      grabCursor: true,
-      centeredSlides: true,
-      slidesPerView: 'auto',
-      coverflowEffect: {
-        rotate: 50,
-        stretch: 0,
-        depth: 100,
-        modifier: 1,
-        slideShadows : true,
-      },
-      pagination: {
-        el: '.swiper-pagination',
-      },
-      autoplay: {
-        delay: 4500,
-        disableOnInteraction: false,
-      },
-    });
-  </script>
-  <script>
-  $(document).ready(function () {
-
-$('.ir-arriba').click(function(){
-$('body, html').animate({
-scrollTop: '0px'
-}, 1000);
-});
-
-$(window).scroll(function(){
-if( $(this).scrollTop() > 0 ){
-$('.ir-arriba').slideDown(600);
-} else {
-$('.ir-arriba').slideUp(600);
-}
-});
-
-$('.ir-abajo').click(function(){
-$('body, html').animate({
-scrollTop: '1000px'
-}, 1000);
-});
-
-});
-  </script>
 </body>
 </html>
