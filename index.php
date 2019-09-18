@@ -83,7 +83,7 @@
                       Mas informacion
                     </button></a>
                     <br><br>
-                    <img src="a-c/17.jpg" class="card-img-top" alt="logo" width="150px" height="300px">
+                    <img src="a-c/17.jpg" class="card-img-top" alt="logo" width="150px" height="220px">
                   </div>
                 </div>
                 <div class="card">
@@ -94,7 +94,7 @@
                       Mas informacion
                     </button></a>
                     <br><br>
-                    <img src="steam/3.jpg" class="card-img-top" alt="logo" width="150px" height="300px">
+                    <img src="steam/3.jpg" class="card-img-top" alt="logo" width="150px" height="220px">
                   </div>
                 </div>
                 <div class="card">
@@ -105,7 +105,7 @@
                       Mas informacion
                     </button></a>
                     <br><br>
-                    <img src="reunion-1/3.jpg" class="card-img-top" alt="logo" width="150px" height="300px">
+                    <img src="reunion-1/3.jpg" class="card-img-top" alt="logo" width="150px" height="220px">
                   </div>
                 </div>
               </div>
@@ -120,7 +120,7 @@
                       Mas informacion
                     </button></a>
                     <br><br>
-                     <img src="ecoamigos/eco1.jpg" class="card-img-top" alt="logo" width="150px" height="300px">
+                     <img src="ecoamigos/eco1.jpg" class="card-img-top" alt="logo" width="150px" height="220px">
                   </div>
                 </div>
                 <div class="card">
