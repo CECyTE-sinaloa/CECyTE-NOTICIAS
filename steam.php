@@ -43,12 +43,6 @@
         <li><a href="#img2"><img src="steam/2.jpg" class="img-fluid" alt="Responsive image"></a></li>    
         <li><a href="#img3"><img src="steam/3.jpg" class="img-fluid" alt="Responsive image"></a></li>    
         <li><a href="#img4"><img src="steam/4.jpg" class="img-fluid" alt="Responsive image"></a></li>
-        <li><a href="#img5"><img src="steam/5.jpg" class="img-fluid" alt="Responsive image"></a></li>    
-        <li><a href="#img6"><img src="steam/6.jpg" class="img-fluid" alt="Responsive image"></a></li>    
-        <li><a href="#img7"><img src="steam/7.jpg" class="img-fluid" alt="Responsive image"></a></li>    
-        <li><a href="#img8"><img src="steam/8.jpg" class="img-fluid" alt="Responsive image"></a></li> 
-        <li><a href="#img9"><img src="steam/9.jpg" class="img-fluid" alt="Responsive image"></a></li> 
-        <li><a href="#img10"><img src="steam/10.jpg" class="img-fluid" alt="Responsive image"></a></li> 
        </ul> 
       </center>
      </div>
@@ -82,57 +76,9 @@
     <div class="imagen"> 			
     <a href="#img3">&#60;</a> 			
     <a href="#img4"><img src="steam/4.jpg"></a> 			
-    <a href="#img5">></a> 		
+    <a href="#img1">></a> 		
     </div> 		
     <a class="cerrar" href=""><center><b>x</b></center></a> 	
     </div> 
-    <div class="modal" id="img5"> 		 		
-    <div class="imagen"> 			
-    <a href="#img4">&#60;</a> 			
-    <a href="#img5"><img src="steam/5.jpg"></a> 			
-    <a href="#img6">></a> 		
-    </div> 		
-    <a class="cerrar" href=""><center><b>x</b></center></a> 	
-    </div>
-    <div class="modal" id="img6"> 		 		
-    <div class="imagen"> 			
-    <a href="#img5">&#60;</a> 			
-    <a href="#img6"><img src="steam/6.jpg"></a> 			
-    <a href="#img7">></a> 		
-    </div> 		
-    <a class="cerrar" href=""><center><b>x</b></center></a> 	
-    </div>
-    <div class="modal" id="img7"> 		 		
-    <div class="imagen"> 			
-    <a href="#img6">&#60;</a> 			
-    <a href="#img7"><img src="steam/7.jpg"></a> 			
-    <a href="#img8">></a> 		
-    </div> 		
-    <a class="cerrar" href=""><center><b>x</b></center></a> 	
-    </div> 
-    <div class="modal" id="img8"> 		 		
-    <div class="imagen"> 			
-    <a href="#img7">&#60;</a> 			
-    <a href="#img8"><img src="steam/8.jpg"></a> 			
-    <a href="#img9">></a> 		
-    </div> 		
-    <a class="cerrar" href=""><center><b>x</b></center></a> 	
-    </div>
-    <div class="modal" id="img9">         
-    <div class="imagen">      
-    <a href="#img8">&#60;</a>       
-    <a href="#img9"><img src="steam/9.jpg"></a>       
-    <a href="#img10">></a>     
-    </div>    
-    <a class="cerrar" href=""><center><b>x</b></center></a>   
-    </div>
-    <div class="modal" id="img10">         
-    <div class="imagen">      
-    <a href="#img9">&#60;</a>       
-    <a href="#img10"><img src="steam/10.jpg"></a>       
-    <a href="#img1">></a>     
-    </div>    
-    <a class="cerrar" href=""><center><b>x</b></center></a>   
-    </div>
     </body>
     </html>       
