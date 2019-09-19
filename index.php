@@ -51,12 +51,6 @@
       img{
         border-radius: 5px;
       }
-      .navbar-light{
-        background: black;
-      }
-      .bg-light{
-        background: black;
-      }
     </style>
  </head>
 <body class="body">
@@ -79,7 +73,7 @@
                       </div>
                     </div>
   
-                    <nav class="navbar navbar-light bg-light">
+                    <nav class="navbar navbar-dark bg-dark">
                       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                       </button>
