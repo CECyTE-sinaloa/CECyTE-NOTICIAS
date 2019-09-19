@@ -51,6 +51,9 @@
       img{
         border-radius: 5px;
       }
+      nav{
+        background: black;
+      }
     </style>
  </head>
 <body class="body">
