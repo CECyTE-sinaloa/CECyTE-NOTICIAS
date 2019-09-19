@@ -34,6 +34,9 @@
         width: 100%;
         height: 100px;
       }
+     audio{
+      background: black;
+      color: black;
       .card{
         border-radius: 5px;
         background: black;
@@ -359,6 +362,10 @@
                     <img src="ggg.png" class="img-fuid" style="width: 100%;" alt="Responsive image">
               </div>
               <div class="footer">
+               <audio controls autoplay="true">
+                <source src="alan.mp3" type="audio/ogg">
+                <source src="alan.mp3" type="audio/mp3">
+              </audio>
               </div>
 </body>
 </html>
