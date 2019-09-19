@@ -133,8 +133,9 @@
     </div>    
     <a class="cerrar" href=""><center><b>x</b></center></a>   
     </div>
-      <div id="fb-root"></div>
+ <center><div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v4.0"></script>
  <div class="fb-comments" data-href="http://cecyte-noticias.herokuapp.com/reunion-1.php" data-width="" data-numposts="15"></div>
+   </center>
     </body>
     </html>       
