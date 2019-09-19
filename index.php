@@ -25,9 +25,9 @@
         background: #000000cc;
       }
       #jumbo{ 
-        background: #fff;
-        color: black;
-        font-size: 25px;
+        background: black;
+        color: white;
+        font-size: 20px;
       }
       .footer{
         background: black;
