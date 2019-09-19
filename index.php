@@ -51,7 +51,10 @@
       img{
         border-radius: 5px;
       }
-      nav{
+      .navbar-light{
+        background: black;
+      }
+      .bg-light{
         background: black;
       }
     </style>
