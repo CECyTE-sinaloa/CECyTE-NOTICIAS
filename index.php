@@ -22,7 +22,7 @@
     </script>
     <style type="text/css">
       body{
-        background: black;
+        background: #000000cc;
       }
       #jumbo{ 
         background: #fff;
