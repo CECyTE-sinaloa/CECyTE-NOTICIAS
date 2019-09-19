@@ -22,7 +22,7 @@
     </script>
     <style type="text/css">
       body{
-        background: rgba(0, 0, 100, 0.3);
+        background: black;
       }
       #jumbo{ 
         background: #fff;
@@ -37,7 +37,7 @@
       .card{
         border-radius: 5px;
         background-image: url('17804080653_8ca1e0b9cd.jpg');
-        background-repeat: no-repeat;
+        background-size: 100%;
       }
       video{
         background: black;
