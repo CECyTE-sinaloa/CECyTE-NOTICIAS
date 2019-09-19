@@ -36,7 +36,7 @@
       }
       .card{
         border-radius: 5px;
-        background-image: url('fondo-card.jpg');
+        background-image: black;
         background-size: 100%;
         color: white;
       }
