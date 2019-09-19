@@ -4,14 +4,18 @@
 <meta charset="utf-8">
  <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>CECyTE Noticias</title>
-    <link rel="shortcut icon" href="CE.png"/>
-    <link rel="stylesheet" href="css/bootstrap.css"/>
-    <link href="css/bootstrap-grid.css" rel="stylesheet" id="bootstrap-css"/>
-    <link href="css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css"/>
-    <link href="css/bootstrap-reboot.css" rel="stylesheet" id="bootstrap-css"/>
-    <link href="css/bootstrap-reboot.min.css" rel="stylesheet"/>
+    <link rel="shortcut icon" href="CE.png">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link href="css/bootstrap-grid.css" rel="stylesheet" id="bootstrap-css">
+    <link href="css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <link href="css/bootstrap-grid.css" rel="stylesheet" id="bootstrap-css">
+    <link href="css/bootstrap-reboot.css" rel="stylesheet" id="bootstrap-css">
+    <link href="css/bootstrap-reboot.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/swiper.min.css">
+    <link rel="stylesheet" href="css/speed.css">
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery-1.11.1.js"></script>
     <script type=»text/javascript»>
       document.write(escape(‘código a cifrar))
