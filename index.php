@@ -13,6 +13,9 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery-3.3.1.min.js"></script>
     <script src="js/jquery-1.11.1.js"></script>
+    <script type=»text/javascript»>
+      document.write(escape(‘código a cifrar))
+    </script>
     <style type="text/css">
       body{
         background: rgba(0, 0, 100, 0.3);
