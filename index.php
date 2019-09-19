@@ -36,6 +36,8 @@
       }
       .card{
         border-radius: 5px;
+        background-image: url('17804080653_8ca1e0b9cd.jpg');
+        background-repeat: no-repeat;
       }
       video{
         background: black;
