@@ -36,7 +36,7 @@
       }
       .card{
         border-radius: 5px;
-        background-image: black;
+        background: black;
         background-size: 100%;
         color: white;
       }
