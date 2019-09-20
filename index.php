@@ -34,9 +34,6 @@
         width: 100%;
         height: 100px;
       }
-     audio{
-      background: black;
-      color: black;
       .card{
         border-radius: 5px;
         background: black;
