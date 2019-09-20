@@ -53,7 +53,10 @@
       }
     </style>
  </head>
-<body class="body">
+<body class="hidden">
+ <div class="centrado" id="onload">
+        <div class="lds-facebook"><div></div><div></div><div></div></div>
+    </div>
  <div class="pos-f-t">
                     <div class="collapse" id="navbarToggleExternalContent">
                       <div class="bg-dark p-4">
