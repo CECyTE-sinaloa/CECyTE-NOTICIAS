@@ -75,7 +75,6 @@
                         </ul>
                       </div>
                     </div>
-  
                     <nav class="navbar navbar-dark bg-dark">
                       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
@@ -144,7 +143,7 @@
                       Mas informacion
                     </button></a>
                     <br><br>
-                     <video controls>
+                     <video controls class="fb-video">
                        <source src="VID-3.mp4" type="video/mp4">
                      </video>
                   </div>
@@ -161,7 +160,7 @@
                       Mas informacion
                     </button></a>
                     <br><br>
-                     <video controls>
+                     <video controls class="fb-video">
                        <source src="VID-4.mp4" type="video/mp4">
                      </video>
                   </div>
@@ -174,7 +173,7 @@
                       Mas informacion
                     </button></a>
                     <br><br>
-                     <video controls>
+                     <video controls class="fb-video">
                        <source src="VID-5.mp4" type="video/mp4">
                      </video>
                   </div>
@@ -187,7 +186,7 @@
                       Mas informacion
                     </button></a>
                     <br><br>
-                     <video controls>
+                     <video controls class="fb-video">
                        <source src="VID-4.mp4" type="video/mp4">
                      </video>
                   </div>
