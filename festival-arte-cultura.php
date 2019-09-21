@@ -204,5 +204,8 @@
     </div>    
     <a class="cerrar" href=""><center><b>x</b></center></a>   
     </div>
+ <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v4.0"></script
+ <div class="fb-comments" data-href="http://cecyte-noticias.herokuapp.com/festival-arte-cultura.php" data-width="100%" data-numposts="15"></div>
     </body>
     </html>       
