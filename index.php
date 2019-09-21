@@ -56,7 +56,9 @@
 <body class="hidden">
  <div class="centrado" id="onload">
         <div class="lds-facebook"><div></div><div></div><div></div></div>
-    </div>
+    </div><div id="fb-root"></div>
+ <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v4.0"></script>
+ <div class="fb-login-button" data-width="" data-size="large" data-button-type="login_with" data-auto-logout-link="true" data-use-continue-as="true"></div>
  <div class="pos-f-t">
                     <div class="collapse" id="navbarToggleExternalContent">
                       <div class="bg-dark p-4">
