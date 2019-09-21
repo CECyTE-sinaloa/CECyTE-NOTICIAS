@@ -92,43 +92,45 @@
                   <div class="card-body">
                     <h5 class="card-title">Festival estatal de arte y cultura de los CECyTES</h5>
                     <p class="card-text">Felicitamos a todos los alumnos participantes de nuestro plantel #CecyteLaCruz por su excelente participación...</p>
-                    <a href="festival-arte-cultura.php"><button type="button" class="btn btn-outline-info" >
-                      Mas informacion
-                    </button></a>
                     <br><br>
                     <img src="a-c/17.jpg" class="card-img-top" alt="logo" width="150px" height="220px">
-                    <br>
+                    <br><br>
                    <div id="fb-root"></div>
                        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v4.0"></script>
                    <div class="fb-like" data-href="http://cecyte-noticias.herokuapp.com/#card1" data-width="" data-layout="button" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
+                   <a href="festival-arte-cultura.php"><button type="button" class="btn btn-info btn-small" >
+                      Mas informacion
+                    </button></a>
                   </div>
                 </div>
                 <div class="card" id="#card2">
                   <div class="card-body">
                     <h5 class="card-title">Mujeres Lideres en STEAM</h5>
                     <p class="card-text">CECyTE Sinaloa plantel la Cruz de nueva cuenta entra a la convocatoria de mujeres líderes en STEAM.¿Que es esto?😱..</p>
-                    <a href="steam.php"><button type="button" class="btn btn-outline-info" >
-                      Mas informacion
-                    </button></a>
                     <br><br>
                     <img src="steam/3.jpg" class="card-img-top" alt="logo" width="150px" height="220px">
+                   <br><br>
                    <div id="fb-root"></div>
                      <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v4.0"></script>
                    <div class="fb-like" data-href="http://cecyte-noticias.herokuapp.com/#card2" data-width="" data-layout="button" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
+                   <a href="steam.php"><button type="button" class="btn btn-info btn-small" >
+                      Mas informacion
+                    </button></a>
                   </div>
                 </div>
                 <div class="card" id="#card3">
                   <div class="card-body">
                     <h5 class="card-title">La primer reunión con padres de familia de alumnos de 1er año</h5>
                     <p class="card-text">Hoy 10 de Septiembre se llevo a cabo la primer reunión con padres de familia de alumnos de 1er año con el fin de darles...</p>
-                    <a href="reunion-1.php"><button type="button" class="btn btn-outline-info">
-                      Mas informacion
-                    </button></a>
                     <br><br>
                     <img src="reunion-1/3.jpg" class="card-img-top" alt="logo" width="150px" height="220px">
+                   <br><br>
                    <div id="fb-root"></div>
                      <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v4.0"></script>
                    <div class="fb-like" data-href="http://cecyte-noticias.herokuapp.com/#card3" data-width="" data-layout="button" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
+                   <a href="reunion-1.php"><button type="button" class="btn btn-info btn-small">
+                      Mas informacion
+                    </button></a>
                   </div>
                 </div>
               </div>
