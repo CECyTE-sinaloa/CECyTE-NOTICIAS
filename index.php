@@ -101,7 +101,6 @@
                    <div id="fb-root"></div>
                        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v4.0"></script>
                    <div class="fb-like" data-href="http://cecyte-noticias.herokuapp.com/#card1" data-width="" data-layout="standard" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
-                   <iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fcecyte-noticias.herokuapp.com%2F%23card1&width=450&layout=standard&action=like&size=large&show_faces=true&share=true&height=80&appId" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                   </div>
                 </div>
                 <div class="card" id="#card2">
@@ -116,7 +115,6 @@
                    <div id="fb-root"></div>
                      <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v4.0"></script>
                    <div class="fb-like" data-href="http://cecyte-noticias.herokuapp.com/#card2" data-width="" data-layout="standard" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
-                   <iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fcecyte-noticias.herokuapp.com%2F%23card2&width=450&layout=standard&action=like&size=large&show_faces=true&share=true&height=80&appId" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                   </div>
                 </div>
                 <div class="card" id="#card3">
@@ -131,7 +129,6 @@
                    <div id="fb-root"></div>
                      <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v4.0"></script>
                    <div class="fb-like" data-href="http://cecyte-noticias.herokuapp.com/#card3" data-width="" data-layout="standard" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
-                   <iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fcecyte-noticias.herokuapp.com%2F%23card3&width=450&layout=standard&action=like&size=large&show_faces=true&share=true&height=80&appId" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                   </div>
                 </div>
               </div>
