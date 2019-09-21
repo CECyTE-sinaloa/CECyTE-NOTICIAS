@@ -151,9 +151,9 @@
                       Mas informacion
                     </button></a>
                     <br><br>
-                     <video controls>
-                       <source src="VID-2.mp4" type="video/mp4">
-                     </video>
+                     <div id="fb-root"></div>
+                     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v4.0"></script>
+                   <div class="fb-video" data-href="https://www.facebook.com/facebook/videos/10153231379946729/" data-width="500" data-show-text="true"><blockquote cite="https://developers.facebook.com/facebook/videos/10153231379946729/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/facebook/videos/10153231379946729/">How to Share With Just Friends</a><p>How to share with just friends.</p>Publicada por <a href="https://www.facebook.com/facebook/">Facebook</a> en Viernes, 5 de diciembre de 2014</blockquote></div>
                   </div>
                 </div>
                 <div class="card">
