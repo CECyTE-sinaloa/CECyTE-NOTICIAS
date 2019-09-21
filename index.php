@@ -143,7 +143,7 @@
                       Mas informacion
                     </button></a>
                     <br><br>
-                     <video controls class="fb-video">
+                     <video controls id="fb-root" class=" fb_reset">
                        <source src="VID-3.mp4" type="video/mp4">
                      </video>
                   </div>
