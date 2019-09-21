@@ -94,10 +94,6 @@
                     <p class="card-text">Felicitamos a todos los alumnos participantes de nuestro plantel #CecyteLaCruz por su excelente participación...</p>
                     <br>
                    <a href="festival-arte-cultura.php"><img src="a-c/17.jpg" class="card-img-top" alt="logo" width="150px" height="220px"></a> 
-                    <br><br>
-                   <div id="fb-root"></div>
-                       <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v4.0"></script>
-                   <div class="fb-like" data-href="http://cecyte-noticias.herokuapp.com/#card1" data-width="" data-layout="button" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
                    </div>
                 </div>
                 <div class="card" id="#card2">
@@ -105,12 +101,7 @@
                     <h5 class="card-title">Mujeres Lideres en STEAM</h5>
                     <p class="card-text">CECyTE Sinaloa plantel la Cruz de nueva cuenta entra a la convocatoria de mujeres líderes en STEAM.¿Que es esto?😱..</p>
                     <br>
-                    <a href="steam.php"><img src="steam/3.jpg" class="card-img-top" alt="logo" width="150px" height="220px"></a>
-                   <br><br>
-                   <div id="fb-root"></div>
-                     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v4.0"></script>
-                   <div class="fb-like" data-href="http://cecyte-noticias.herokuapp.com/#card2" data-width="" data-layout="button" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
-                  </div>
+                    <a href="steam.php"><img src="steam/3.jpg" class="card-img-top" alt="logo" width="150px" height="220px"></a></div>
                 </div>
                 <div class="card" id="#card3">
                   <div class="card-body">
@@ -118,11 +109,7 @@
                     <p class="card-text">Hoy 10 de Septiembre se llevo a cabo la primer reunión con padres de familia de alumnos de 1er año con el fin de darles...</p>
                     <br>
                     <a href="reunion-1.php"><img src="reunion-1/3.jpg" class="card-img-top" alt="logo" width="150px" height="220px"></a>
-                   <br><br>
-                   <div id="fb-root"></div>
-                     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v4.0"></script>
-                   <div class="fb-like" data-href="http://cecyte-noticias.herokuapp.com/#card3" data-width="" data-layout="button" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
-                  </div>
+                 </div>
                 </div>
               </div>
           </div>
@@ -134,11 +121,7 @@
                     <p class="card-text">El Club Ecoamigos realizaron labores de limpieza en el Plantel...</p>
                    <br>
                     <a href="ecoamigos.html"><img src="ecoamigos/eco1.jpg" class="card-img-top" alt="logo" width="150px" height="220px"></a>
-                    <br><br>
-                     <div id="fb-root"></div>
-                     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v4.0"></script>
-                   <div class="fb-like" data-href="http://cecyte-noticias.herokuapp.com/#card4" data-width="" data-layout="button" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
-                  </div>
+                 </div>
                 </div>
                 <div class="card">
                   <div class="card-body">
