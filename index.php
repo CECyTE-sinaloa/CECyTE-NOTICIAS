@@ -86,6 +86,9 @@
               <div class="jumbotron" id="jumbo">
                <center><h1 class="titu">NOTICIAS CECyTE LA CRUZ</h1></center>
               </div>
+              <div id="fb-root"></div>
+                 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v4.0"></script>
+              <div class="fb-page" data-href="http://cecyte-noticias.herokuapp.com/" data-tabs="timeline" data-width="100" data-height="70" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div>
               <div class="container-fluid" id="qw">
             <div class="card-group">
                 <div class="card" id="#card1">
