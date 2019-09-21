@@ -100,7 +100,7 @@
                     <br>
                    <div id="fb-root"></div>
                        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v4.0"></script>
-                   <div class="fb-like" data-href="http://cecyte-noticias.herokuapp.com/#card1" data-width="" data-layout="standard" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
+                   <div class="fb-like" data-href="http://cecyte-noticias.herokuapp.com/#card1" data-width="" data-layout="button" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
                   </div>
                 </div>
                 <div class="card" id="#card2">
@@ -114,7 +114,7 @@
                     <img src="steam/3.jpg" class="card-img-top" alt="logo" width="150px" height="220px">
                    <div id="fb-root"></div>
                      <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v4.0"></script>
-                   <div class="fb-like" data-href="http://cecyte-noticias.herokuapp.com/#card2" data-width="" data-layout="standard" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
+                   <div class="fb-like" data-href="http://cecyte-noticias.herokuapp.com/#card2" data-width="" data-layout="button" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
                   </div>
                 </div>
                 <div class="card" id="#card3">
@@ -128,7 +128,7 @@
                     <img src="reunion-1/3.jpg" class="card-img-top" alt="logo" width="150px" height="220px">
                    <div id="fb-root"></div>
                      <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v4.0"></script>
-                   <div class="fb-like" data-href="http://cecyte-noticias.herokuapp.com/#card3" data-width="" data-layout="standard" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
+                   <div class="fb-like" data-href="http://cecyte-noticias.herokuapp.com/#card3" data-width="" data-layout="button" data-action="like" data-size="large" data-show-faces="true" data-share="true"></div>
                   </div>
                 </div>
               </div>
