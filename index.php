@@ -52,65 +52,8 @@
         border-radius: 5px;
       }
     </style>
-<script>
-"uso estricto";
-
-! function () {
-  var t = window.driftt = window.drift = window.driftt || [];
-  if (! t.init) {
-    if (t.invoked) return void (window.console && console.error && console.error ("Fragmento de deriva incluido dos veces"));
-    t.invoked =! 0, t.methods = ["identificar", "config", "seguimiento", "restablecer", "depurar", "mostrar", "ping", "página", "ocultar", "off ", "en" ], 
-    t.factory = función (e) {
-      función de retorno () {
-        var n = Array.prototype.slice.call (argumentos);
-        volver n.unshift (e), t.push (n), t;
-      };
-    }, t.methods.forEach (función (e) {
-      t [e] = t.factory (e);
-    }), t.load = función (t) {
-      var e = 3e5, n = Math.ceil (nueva fecha () / e) * e, o = document.createElement ("script");
-      o.type = "text / javascript", o.async =! 0, o.crossorigin = "anónimo", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";
-      var i = document.getElementsByTagName ("script") [0];
-      i.parentNode.insertBefore (o, i);
-    };
-  }
-} ();
-drift.SNIPPET_VERSION = '0.3.1';
-drift.load ('ipe64y389ka3');
-</script>
  </head>
 <body class="hidden">
- <div class="centrado" id="onload">
-        <div class="lds-facebook"><div></div><div></div><div></div></div>
-    </div>
- <div class="pos-f-t">
-                    <div class="collapse" id="navbarToggleExternalContent">
-                      <div class="bg-dark p-4">
-                        <h5 class="text-white h4">Men&uacute;</h5>
-                        <span class="text-muted">El mejor sitio de noticias</span>
-                        <ul class="navbar-nav mr-auto">
-                          <li class="nav-item active">
-                            <a class="nav-link" href="index.html"><span style="color:#eee;">Inicio</span></a>
-                          </li>
-                          <li class="nav-item">
-                            <a class="nav-link" href="index2.8.html"><span style="color:#eee;"></span></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="Correo.html"><span style="color:#eee;"></span></a>
-                        </li>
-                        </ul>
-                      </div>
-                    </div>
-                    <nav class="navbar navbar-dark bg-dark">
-                      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                      </button>
-                      <img src="CE.png" width="70px;" height="50px;">
-                    </nav>
-                  </div><br>
-              <div class="jumbotron" id="jumbo">
-               <center><h1 class="titu">NOTICIAS CECyTE LA CRUZ</h1></center>
-              </div>
             <div class="container-fluid" id="qw">
             <div class="card-group">
                 <div class="card" id="#card1">
