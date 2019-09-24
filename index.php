@@ -52,6 +52,32 @@
         border-radius: 5px;
       }
     </style>
+<script>
+"uso estricto";
+
+! function () {
+  var t = window.driftt = window.drift = window.driftt || [];
+  if (! t.init) {
+    if (t.invoked) return void (window.console && console.error && console.error ("Fragmento de deriva incluido dos veces"));
+    t.invoked =! 0, t.methods = ["identificar", "config", "seguimiento", "restablecer", "depurar", "mostrar", "ping", "página", "ocultar", "off ", "en" ], 
+    t.factory = función (e) {
+      función de retorno () {
+        var n = Array.prototype.slice.call (argumentos);
+        volver n.unshift (e), t.push (n), t;
+      };
+    }, t.methods.forEach (función (e) {
+      t [e] = t.factory (e);
+    }), t.load = función (t) {
+      var e = 3e5, n = Math.ceil (nueva fecha () / e) * e, o = document.createElement ("script");
+      o.type = "text / javascript", o.async =! 0, o.crossorigin = "anónimo", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";
+      var i = document.getElementsByTagName ("script") [0];
+      i.parentNode.insertBefore (o, i);
+    };
+  }
+} ();
+drift.SNIPPET_VERSION = '0.3.1';
+drift.load ('ipe64y389ka3');
+</script>
  </head>
 <body class="hidden">
  <div class="centrado" id="onload">
